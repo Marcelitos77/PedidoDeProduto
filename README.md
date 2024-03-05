@@ -1,4 +1,4 @@
-# Aula de C# - Jogo da palavra
+# Aula de C# - Pedido de Produto
 
 Desenvolvido código onde se coloca a descrição do tipo de produto e quantidade, de acordo com a quantidade do pedido o resultado aplica a frase com o total e desconto. Aula Desvtars - PCDdevs.
 
